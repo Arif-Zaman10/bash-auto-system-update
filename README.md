@@ -12,8 +12,10 @@ This repository contains a simple **Bash script** that automates system updates 
 ## Usage
 1. Clone or download this repository.
 2. Make the script executable:
+   ```bash
    chmod +x auto-update.sh
 4. Run the script:
+   ```bash
    ./auto-update.sh
 
 6. Enter your sudo password when prompted. The script will run automatically.
